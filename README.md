@@ -3,8 +3,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mikeroznik)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mikeroznik)
 
+- 🌱 I’m currently learning R and how to use it for stats related to baseball and hockey.
+- 👯 I’m looking to collaborate on displaying data with R.
+- 🦜 I have given talks on a variety of software testing topics as well as data analysis of large data groups.
+
 <!--
 **mikeroznik/mikeroznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I used https://hackernoon.com/how-to-make-a-rockstar-github-profile-readme for help with this
 
 Here are some ideas to get you started:
 
