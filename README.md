@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I'm Mike Roznik
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mikeroznik)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mikeroznik)
+
+I write code and test code [insert whatever job titles you think this means] and sometimes even play around numbers.
 
 - 🌱 I’m currently learning R and how to use it for stats related to baseball and hockey.
 - 👯 I’m looking to collaborate on displaying data with R.
